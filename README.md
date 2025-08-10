@@ -29,7 +29,6 @@ A simple tool that generates attractive video thumbnails automatically based on 
 # Example: clone the repo
 git clone https://github.com/Nahidhasan24/video-seo.git
 cd video-seo-thumbnail-generator
-# Install dependencies if any
 npm install
 npm run dev
 ````
@@ -45,4 +44,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 
 Let me know if you want it customized for a specific language, framework, or detailed usage!
-```
+
