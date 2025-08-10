@@ -22,9 +22,6 @@ A simple tool that generates attractive video thumbnails automatically based on 
 3. Click "Generate Thumbnail".
 4. Save the generated thumbnail image.
 
-## Requirements
-
-- [List any dependencies or environment requirements here]
 
 ## Installation
 
@@ -34,6 +31,7 @@ git clone https://github.com/Nahidhasan24/video-seo.git
 cd video-seo-thumbnail-generator
 # Install dependencies if any
 npm install
+npm run dev
 ````
 
 ## Contributing
